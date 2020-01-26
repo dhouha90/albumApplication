@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">leboncoinproj</string>
+    <string name="no_network">No network available</string>
+</resources>
